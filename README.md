@@ -6,7 +6,7 @@
 <div align="center">
 	<a href="https://github.com/Zuk3s">
 	<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&custom_title=Zukes%20GitHub%20Status&border_radius=10&border_color=000000&locale=pt-br "/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuk3s&layout=compact&theme=graywhite&langs_count=4&custom_title=L%C3%ADnguagens%20Mais%20Usadas%3A&border_radius=10&locale=pt-br&border_color=000000&https://github.com/Zuk3s/github-readme-stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuk3s&layout=default&theme=graywhite&langs_count=4&custom_title=L%C3%ADnguagens%20Mais%20Usadas%3A&border_radius=10&locale=pt-br&border_color=000000&https://github.com/Zuk3s/github-readme-stats"/>
 </div>
 <div align="left"><br>
 	<img align="center" alt="Zuk3s-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
