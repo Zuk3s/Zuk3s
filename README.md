@@ -9,11 +9,12 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuk3s&layout=default&theme=graywhite&langs_count=4&custom_title=L%C3%ADnguagens%20Mais%20Usadas%3A&border_radius=10&locale=pt-br&border_color=000000&https://github.com/Zuk3s/github-readme-stats"/>
 </div>
 <div align="center"><br>
-	<img align="center" alt="Zuk3s-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="Zuk3s-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-	<img align="center" alt="Zuk3s-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="Zuk3s-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="Zuk3s-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+	<img alt="Zuk3s-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	<img alt="Zuk3s-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+	<img alt="Zuk3s-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+	<img alt="Zuk3s-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img alt="Zuk3s-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img alt="Zuk3s-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
 ##
