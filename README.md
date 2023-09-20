@@ -1,16 +1,20 @@
-- 👋 Olá, eu sou @Zuk3s e me chamo Felipe
-- 👀 Gosto muito de programação, sou dedicado e focado
-- 👨🏻‍💻 Atualmente estou fazendo curso de Eng de Software e estudo vários outros cursos por fora
-- 🖥️ Gosto de tanto de front-end quanto de back-end e pretendo aprender ambas as partes
+<div>
+	<h1>Sobre mim</h1>
+	<p>- 👋 Olá, eu sou @Zuk3s e me chamo Felipe</p>
+	<p>- 👀 Gosto muito de programação, sou dedicado e focado</p>
+	<p>- 👨🏻‍💻 Atualmente estou fazendo curso de Eng de Software e estudo vários outros cursos por fora</p>
+	<p>- 🖥️ Gosto de tanto de front-end quanto de back-end e pretendo aprender ambas as partes</p>
 
+</div>
+<br>
 <div align="center">
 	<a href="">
-	<img width="400px" 
-		src="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&custom_title=Zukes%20GitHub%20Status&border_radius=8&border_color=000000&locale=pt-br"/>
+	<img width="400px"
+src="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&custom_title=Zukes%20GitHub%20Status&border_radius=8&border_color=000000&locale=pt-br"/>
 </div>
 		
 <div align="center">
-	<h2> Technologies </h2>
+	<h1> Technologies </h1>
 	<img alt="Zuk3s-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img alt="Zuk3s-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 	<img alt="Zuk3s-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -20,7 +24,7 @@
 	<img alt="Zuk3s-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 	<h1> Social Media </h1>
