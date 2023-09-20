@@ -4,7 +4,7 @@
 - 🖥️ Gosto de tanto de front-end quanto de back-end e pretendo aprender ambas as partes
 
 <div align="center">
-	<a href="https://github.com/Zuk3s">
+	<a href="">
 	<img width="400px" 
 		src="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&custom_title=Zukes%20GitHub%20Status&border_radius=8&border_color=000000&locale=pt-br"/>
 </div>
