@@ -8,9 +8,28 @@
 </div>
 <br>
 <div align="center">
-		<img height="190px"
-src="https://github-readme-stats.vercel.app/api?username=Zuk3s&theme=transparent&show_icons=true&count_private=true"/>
-		<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuk3s&size_weight=0&count_weight=1&langs_count=5&layout=donut&theme=transparent&bg_color=000000"/>
+	<picture>
+  		<source
+		    srcset="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true&theme=dark"
+		    media="(prefers-color-scheme: dark)"
+		/>
+		<source
+		    srcset="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true"
+		    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		/>
+		  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true" />
+	</picture>
+	<picture>
+  		<source
+		    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuk3s&show_icons=true&theme=dark&size_weight=0&count_weight=1&langs_count=5&layout=donut"
+		    media="(prefers-color-scheme: dark)"
+		/>
+		<source
+		    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuk3s&show_icons=true&size_weight=0&count_weight=1&langs_count=5&layout=donut"
+		    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		/>
+		  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuk3s&size_weight=0&count_weight=1&langs_count=5&layout=donut"/>
+	</picture>
 </div>
 		
 <div align="center">
