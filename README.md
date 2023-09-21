@@ -10,25 +10,25 @@
 <div align="center">
 	<picture>
   		<source
-		    srcset="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true&theme=dark&icon_color=F2C53D"
+		    srcset="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true&theme=dark&icon_color=F2C53D&ring_color=F2C53D&rank_icon=github"
 		    media="(prefers-color-scheme: dark)"
 		/>
 		<source
-		    srcset="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true&title_color=000000&icon_color=3E7BAC"
+		    srcset="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true&title_color=000000&icon_color=3E7BAC&ring_color=3E7BAC&rank_icon=github"
 		    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 		/>
 		  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true" />
 	</picture>
 	<picture>
   		<source
-		    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuk3s&show_icons=true&theme=dark&size_weight=0&count_weight=1&langs_count=5&layout=donut"
+		    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuk3s&show_icons=true&theme=dark&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&exclude_repo=The-Creed-Of-Gods-Game"
 		    media="(prefers-color-scheme: dark)"
 		/>
 		<source
-		    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuk3s&show_icons=true&size_weight=0&count_weight=1&langs_count=5&layout=donut&title_color=000000"
+		    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuk3s&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&title_color=000000&exclude_repo=The-Creed-Of-Gods-Game"
 		    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 		/>
-		  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuk3s&size_weight=0&count_weight=1&langs_count=5&layout=donut"/>
+		  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuk3s&size_weight=0&count_weight=1&langs_count=5&layout=donut&exclude_repo=The-Creed-Of-Gods-Game"/>
 	</picture>
 </div>
 		
