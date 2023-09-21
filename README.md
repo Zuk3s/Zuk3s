@@ -1,9 +1,14 @@
 <div>
 	<h1 align="center">Sobre mim</h1>
-	<p>- 👋 Olá, eu sou @Zuk3s e me chamo Felipe</p>
-	<p>- 👀 Gosto muito de programação, sou dedicado e focado</p>
-	<p>- 👨🏻‍💻 Atualmente estou fazendo curso de Eng de Software e estudo vários outros cursos por fora</p>
-	<p">- 🖥️ Gosto de tanto de front-end quanto de back-end e pretendo aprender ambas as partes</p>
+	<p>
+		Hey there, I'm Felipe Macedo, a student bursting with energy and a hunger for adventures in the professional world! I'm on the brink of obtaining my Bachelor's degree in Software Engineering from UNICEPLAC, and I can't wait to bring my passion for technology to a super dynamic corporate environment.
+	</p>
+	<p>
+		Throughout my academic journey, I've honed ninja-like skills in programming, puzzle-solving, and teamwork. I've taken on challenges in academic projects that have expanded my creativity and sharpened my critical thinking.
+	</p>
+	<p>
+		I'm eager to dive headfirst into your company and be a driving force behind exciting projects. My dedication and quick learning abilities make me a valuable candidate. Let's chat about how I can contribute to your organization soon? 😄🚀
+	</p>
 
 </div>
 <br>
