@@ -10,11 +10,11 @@
 <div align="center">
 	<picture>
   		<source
-		    srcset="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true&theme=dark"
+		    srcset="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true&theme=dark&icon_color=F2C53D"
 		    media="(prefers-color-scheme: dark)"
 		/>
 		<source
-		    srcset="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true"
+		    srcset="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true&title_color=ffffff&icon_color=3E7BAC"
 		    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 		/>
 		  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Zuk3s&show_icons=true" />
