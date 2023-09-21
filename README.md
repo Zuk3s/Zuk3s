@@ -1,16 +1,33 @@
 <div>
-	<h1 align="center">Sobre mim</h1>
-	<p>
-		Hey there, I'm Felipe Macedo, a student bursting with energy and a hunger for adventures in the professional world! I'm on the brink of obtaining my Bachelor's degree in Software Engineering from UNICEPLAC, and I can't wait to bring my passion for technology to a super dynamic corporate environment.
-	</p>
-	<p>
-		Throughout my academic journey, I've honed ninja-like skills in programming, puzzle-solving, and teamwork. I've taken on challenges in academic projects that have expanded my creativity and sharpened my critical thinking.
-	</p>
-	<p>
-		I'm eager to dive headfirst into your company and be a driving force behind exciting projects. My dedication and quick learning abilities make me a valuable candidate. Let's chat about how I can contribute to your organization soon? 😄🚀
-	</p>
-
+	<h1 align="center">About Me</h1>	
+	<details>
+		<summary>English</summary>
+		<br>
+		<p>
+			Hey, I'm Felipe Macedo, a student full of energy and eager for professional adventures! I'm on the verge of earning my degree in Software Engineering from UNICEPLAC, and I can't wait to bring my passion for technology to an amazing corporate environment.
+		</p>
+		<p>
+			Throughout my academic journey, I've honed ninja-like skills in programming, puzzle-solving, and teamwork. I've taken on challenges in academic projects that have expanded my creativity and sharpened my critical thinking.
+		</p>
+		<p>
+			I'm eager to dive headfirst into your company and be a driving force behind exciting projects. My dedication and quick learning abilities make me a valuable candidate. Let's chat about how I can contribute to your organization soon? 😄🚀
+		</p>
+	</details>
+	<details>
+		<summary>Português</summary>
+		<br>
+		<p>
+			Ei, eu sou Felipe Macedo, um estudante cheio de energia e sede de aventuras no mundo profissional! Estou quase pegando meu diploma de Engenharia de Software na UNICEPLAC e mal posso esperar para levar minha paixão pela tecnologia a um ambiente corporativo incrível.
+		</p>
+		<p>
+			Durante minha jornada acadêmica, desenvolvi habilidades ninja em programação, resolução de quebra-cabeças e trabalho em equipe. Enfrentei desafios em projetos acadêmicos que expandiram minha criatividade e aprimoraram meu raciocínio crítico.
+		</p>
+		<p>
+			Estou ansioso para me juntar à sua equipe e contribuir com projetos empolgantes. Minha dedicação e disposição para aprender rapidamente me tornam um candidato valioso. Vamos conversar sobre como posso agregar valor à sua organização em breve? 😄🚀
+		</p>
+	</details>
 </div>
+
 <br>
 <div align="center">
 	<picture>
