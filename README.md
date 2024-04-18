@@ -56,20 +56,20 @@
 		
 <div align="center">
 	<h1> Technologies </h1>
-	<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img alt="Zuk3s-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></a>
-	<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img alt="Zuk3s-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></a>
-	<a href="https://getbootstrap.com/" target="_blank"><img alt="Zuk3s-Bootstrap" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></a>
-	<a href="https://www.figma.com/" target="_blank"><img alt="Zuk3s-Figma" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
-	<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img alt="Zuk3s-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-	<a href="https://www.typescriptlang.org/" target="_blank"><img alt="Zuk3s-Ts" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
-	<a href="https://reactjs.org/" target="_blank"><img alt="Zukes-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-	<a href="https://nodejs.org/en/" target="_blank"><img alt="Zuk3s-Node" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
-	<a href="https://expressjs.com/" target="_blank"><img alt="Zuk3s-Express" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></a>
-	<a href="https://github.com/axios/axios" target="_blank"><img alt="Zuk3s-Axios" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain-wordmark.svg"></a>
-	<a href="https://www.mongodb.com/" target="_blank"><img alt="Zuk3s-MongoDB" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
-	<a href="https://mongoosejs.com/" target="_blank"><img alt="Zuk3s-Mongoose" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg"></a>
-	<a href="https://www.python.org/" target="_blank"><img alt="Zuk3s-Python" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-	<a href="https://www.java.com/pt-BR/" target="_blank"><img alt="Zuk3s-Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+	<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img alt="Zuk3s-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" target="_blank"></a>
+	<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img alt="Zuk3s-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" target="_blank"></a>
+	<a href="https://getbootstrap.com/" target="_blank"><img alt="Zuk3s-Bootstrap" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" target="_blank"></a>
+	<a href="https://www.figma.com/" target="_blank"><img alt="Zuk3s-Figma" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" target="_blank"></a>
+	<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img alt="Zuk3s-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank"></a>
+	<a href="https://www.typescriptlang.org/" target="_blank"><img alt="Zuk3s-Ts" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" target="_blank"></a>
+	<a href="https://reactjs.org/" target="_blank"><img alt="Zukes-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank"></a>
+	<a href="https://nodejs.org/en/" target="_blank"><img alt="Zuk3s-Node" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" target="_blank"></a>
+	<a href="https://expressjs.com/" target="_blank"><img alt="Zuk3s-Express" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" target="_blank"></a>
+	<a href="https://github.com/axios/axios" target="_blank"><img alt="Zuk3s-Axios" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain-wordmark.svg" target="_blank"></a>
+	<a href="https://www.mongodb.com/" target="_blank"><img alt="Zuk3s-MongoDB" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" target="_blank"></a>
+	<a href="https://mongoosejs.com/" target="_blank"><img alt="Zuk3s-Mongoose" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" target="_blank"></a>
+	<a href="https://www.python.org/" target="_blank"><img alt="Zuk3s-Python" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank"></a>
+	<a href="https://www.java.com/pt-BR/" target="_blank"><img alt="Zuk3s-Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"></a>
 </div>
 
 <br>
