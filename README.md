@@ -63,6 +63,7 @@
 	<img alt="Zuk3s-Ts" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 	<img alt="Zukes-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 	<img alt="Zuk3s-Node" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+	<img alt="Zuk3s-Node" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
 	<img alt="Zuk3s-Python" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 	<img alt="Zuk3s-Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
